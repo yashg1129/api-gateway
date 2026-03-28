@@ -1,2 +1,1 @@
-# api-gateway
-Backend API Gateway common for all service, which include spring security, verification
+# api-gatewayBackend API Gateway common for all service, which include spring security and request verification
